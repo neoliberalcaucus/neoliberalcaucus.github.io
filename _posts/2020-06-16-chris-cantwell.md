@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Official Neoliberal Caucus Webzone
+title: Chris Cantwell
 ---
 <div class="home">
 <p>This article series is in response to Tom Woods' "Woods Derangement Syndrome" article. The full article can be read <a href="https://tomwoods.com/woods-derangement-syndrome/">here</a>.</p>
