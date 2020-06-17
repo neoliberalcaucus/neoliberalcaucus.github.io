@@ -153,6 +153,7 @@ title: Closing the Door on Tom Woods - Chris Cantwell
 <p>This sponsorship seems to have been going on for some time. Cantwell had a previous podcast, "Some Garbage Podcast", with its own sponsor code:</p>
 <p><em><span style="color: #008000;">"I had the SGP [Some Garbage Podcast] code that's from the old branding of the program, so use promo code CANTWELL now, and you get a third off."</span></em></p>
 <p>So Woods was financially supporting Cantwell during/after a period in which he engaged in vicious racism that not even his friends at Free Talk Live could ignore, endorsed a neo-Nazi website, advocated terrorism, and undertook a harassment campaign in an attempt to destroy someone's life.</p>
+<p>It is unclear when this sponsorship ended, but if Woods really thought that Cantwell didn't shift toward White Nationalism until 2017, Woods may have been sponsoring open White Nationalism for years.</p>
 <p><strong>Conclusion</strong></p>
 <p>Going back to the original article:</p>
 <p><strong><span style="color: #ff0000;">Never explained is: why would I have said such a thing in public? Saying <em>I wish I could utter anti-Semitic statements so I'm glad you're doing it for me</em> is only about three percent better than actually uttering them myself, so what would have been the point of publicly saying something like this? Their story makes no sense.</span></strong></p>
