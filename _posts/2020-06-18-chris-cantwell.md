@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chris Cantwell
+title: Closing the Door on Tom Woods: Chris Cantwell
 ---
 <div class="article">
 <h2>Closing the Door on Tom Woods</h2>
