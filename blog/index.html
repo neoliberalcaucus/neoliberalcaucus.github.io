@@ -6,6 +6,8 @@ title: The Official Neoliberal Caucus Webzone
 <ul class="posts">
 
 	{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% if post.hidden == 0 %}
+			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		{% endif %}
 	{% endfor %}
 </ul>
