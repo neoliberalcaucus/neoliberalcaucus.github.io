@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Defending the Undefendable - Chris Cantwell
-hidden: 1
+hidden: 0
 ---
 <div class="article">
 <h2>Walter Block Defends the Undefendable</h2>
